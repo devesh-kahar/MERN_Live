@@ -1,5 +1,6 @@
 // iterative factorial
 function getFactorialIterative(num) {
+  console.log('getFactorialIterative called');
   let i = 1;
   let result = 1;
   while (i <= num) {

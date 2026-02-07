@@ -41,4 +41,3 @@ console.log('after modifying', product);
 delete product.numberOfRatings;
 console.log('after delete', product);
 
-console.log("Object")

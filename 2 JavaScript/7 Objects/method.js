@@ -33,4 +33,3 @@ showRating(product.rating);
 console.log(product);
 
 product.rating.showRating();
-console.log("Revert command");

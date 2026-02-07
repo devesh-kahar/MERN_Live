@@ -14,4 +14,4 @@ console.log(twice(5));
 console.log(twice(6));
 
 console.log(createDouble()(4));
-console.log("Hello World");
+console.log(createDouble()(7));

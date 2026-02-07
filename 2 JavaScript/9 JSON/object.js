@@ -41,4 +41,3 @@ let student2 = {
 student.friends = [student2];
 
 console.log(JSON.stringify(student));
-console.log("Using git revert");
